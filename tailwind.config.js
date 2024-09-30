@@ -38,8 +38,6 @@ export default {
         'black-5': 'rgba(40, 38, 45, 0.05)',
         'dark-gray': '#1A1D1F',
         white: '#FCFCFC',
-      },
-      backgroundColor: {
         light: '#F4F4F4',
         dark: '#111315',
       },
